@@ -6,3 +6,5 @@ They either functionally revert to older features of older versions of windows o
   current functionality in SharpEnviro to 'generally work' without as much headache in the
   targeted OS at the time. These are not maintained and are written to my needs unless there
   is some other interest.
+  
+Current focus is with Windows 10 but functionality should work back on 7 as well.
